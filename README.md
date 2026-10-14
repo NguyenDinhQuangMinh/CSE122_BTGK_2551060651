@@ -26,15 +26,17 @@ Trang Quản lý danh mục hỗ trợ quản trị viên quản lý các danh m
 - JavaScript
 - `localStorage`
 - Codex
+- Qoder
 
 **Công cụ hỗ trợ phát triển:** Codex, Qoder.
 
 ## Cách chạy
 
-Mở file `KiemDuyetVaQuanTri/02-category-management/index.html` bằng trình duyệt.
+Mở đường link Demo web bằng trình duyệt.
 
 ## Liên kết
 
 - **Thiết kế tham khảo trên Canva:** [CraftLink trên Canva](https://www.canva.com/design/DAHW9oiY-JA/SOGYdjcaglvT8vRFINwhyA/edit)
 - **Video giới thiệu:** Chưa cập nhật — thêm link video sau khi tải lên.
 - **GitHub:** [CSE122-GK-NguyenDinhQuangMinh](https://github.com/NguyenDinhQuangMinh/CSE122-GK-NguyenDinhQuangMinh)
+- **Demo web:** [Link web](https://nguyendinhquangminh.github.io/CSE122_BTGK_2551060651/02-category-management/)
