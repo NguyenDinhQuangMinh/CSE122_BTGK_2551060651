@@ -37,6 +37,6 @@ Mở đường link Demo web bằng trình duyệt.
 ## Liên kết
 
 - **Thiết kế tham khảo trên Canva:** [CraftLink trên Canva](https://www.canva.com/design/DAHW9oiY-JA/SOGYdjcaglvT8vRFINwhyA/edit)
-- **Video giới thiệu:** Chưa cập nhật — thêm link video sau khi tải lên.
+- **Video giới thiệu:** [Link Youtube](https://youtu.be/uU8Cuie4rjo)
 - **GitHub:** [CSE122-GK-NguyenDinhQuangMinh](https://github.com/NguyenDinhQuangMinh/CSE122-GK-NguyenDinhQuangMinh)
 - **Demo web:** [Link web](https://nguyendinhquangminh.github.io/CSE122_BTGK_2551060651/02-category-management/)
