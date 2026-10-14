@@ -1,0 +1,58 @@
+/* Page styles: 02-category-management */
+  
+.category-thumb {
+  padding: 3px;
+}
+.data-table th:nth-child(2),.data-table th:nth-child(3),.data-table th:nth-child(4) {
+  text-align: center;
+}
+.category-row {
+  height: 80px;
+}
+.category-name {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  text-align: left;
+  font-size: 17px;
+}
+.category-actions {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.category-actions .icon-action {
+  min-width: 43px;
+}
+.bell {
+  width: 24px;
+  height: 24px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.empty {
+  padding: 26px;
+  color: #8b8e91;
+  text-align: center;
+}
+.action-btn.icon-action {
+  min-width: 78px;
+  padding: 0 9px;
+  font-size: 14px;
+}
+.topbar {
+  height: 104px;
+}
+.system-search {
+  height: 55px;
+}
+.page {
+  padding-top: 35px;
+}
+.toolbar {
+  padding: 9px 15px;
+}

@@ -1,0 +1,17 @@
+/* Browser reset and shared control defaults */
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  min-width: 360px;
+  min-height: 100vh;
+  background: #faf8f5;
+}
+button,input,select,textarea {
+  font: inherit;
+}
+button {
+  cursor: pointer;
+}
